@@ -1,38 +1,42 @@
 
 <p align="center">
-  <img src="<!-- Вставьте URL вашей гифки -->" alt="GIF" width="600" height="300">
+  <img src="https://github.com/St-Rann/St-Rann/blob/main/type%202.gif?raw=true" alt="GIF" width="600" height="300">
 </p>
 
-# 👋 Привет! Меня зовут [Ваше имя]
+# 👋 Привет! Меня зовут Владислав
 
 ### 💻 Data Scientist
 
-Начинающий специалист, увлекаюсь анализом данных и машинным обучением. В сентябре 2024-го закончил курс от Яндекс Практикума по Data Science. 
+
+📊 Анализ данных | 🤖 Машинное обучение | 🧠 AI & Deep Learning  
+🎓 Выпускник Яндекс Практикума по Data Science (Сентябрь 2024)
+
 
 ---
 
 ## 🛠️ Навыки
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+</div>
 
 ---
 
 ## 📬 Связаться со мной
 
-<p align="center">
+<div align="left">
   <a href="<!-- Вставьте ваш Telegram -->" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="Telegram" />
   </a>
   <a href="mailto:<!-- Вставьте ваш email -->">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
-</p>
+</div>
 
 ---
 
