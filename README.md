@@ -30,10 +30,10 @@
 ## 📬 Связаться со мной
 
 <div align="left">
-  <a href="<!-- Вставьте ваш Telegram -->" target="_blank">
+  <a href="https://t.me/SaintRann" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="Telegram" />
   </a>
-  <a href="mailto:<!-- Вставьте ваш email -->">
+  <a href="mailto: vlad1117111@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
 </div>
