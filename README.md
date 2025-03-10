@@ -31,10 +31,10 @@
 
 <div align="left">
   <a href="https://t.me/SaintRann" target="_blank">
-    <img src="https://github.com/St-Rann/St-Rann/blob/main/icons8-telegram-logo-144.png?raw=true" width="48" height="48" alt="Telegram" />
+    <img src="https://github.com/St-Rann/St-Rann/blob/main/icons8-telegram-logo-144.png?raw=true" width="48" height="48" alt="Telegram" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  <a href="mailto: vlad1117111@gmail.com">
-    <img src="https://github.com/St-Rann/St-Rann/blob/main/icons8-gmail-144.png?raw=true" width="48" height="48" alt="Gmail" />
+  <a href="mailto:vlad1117111@gmail.com" target="_blank">
+    <img src="https://github.com/St-Rann/St-Rann/blob/main/icons8-gmail-144.png?raw=true" width="48" height="48" alt="Gmail" style="vertical-align: middle;" />
   </a>
 </div>
 
