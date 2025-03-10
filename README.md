@@ -17,7 +17,7 @@
 ## 🛠️ Навыки
 
 <div align="left">
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="48" height="55" alt="Python" />
+  <img src="https://github.com/St-Rann/St-Rann/blob/main/icons8-python-96.png?raw=true" width="48" height="48" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
