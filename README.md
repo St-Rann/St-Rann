@@ -17,7 +17,7 @@
 ## 🛠️ Навыки
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="48" height="55" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
@@ -31,7 +31,7 @@
 
 <div align="left">
   <a href="https://t.me/SaintRann" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150" alt="Telegram" />
   </a>
   <a href="mailto: vlad1117111@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
